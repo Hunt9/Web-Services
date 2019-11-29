@@ -1,0 +1,7 @@
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\bin\Practice.dll.config
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\bin\Practice.dll
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\bin\Practice.pdb
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\obj\Release\Practice.csprojAssemblyReference.cache
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\obj\Release\Practice.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\obj\Release\Practice.dll
+C:\Users\muhammad.ahkam\source\repos\Practice\Practice\obj\Release\Practice.pdb
